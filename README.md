@@ -2,15 +2,14 @@
    
 [Linkedin](https://www.linkedin.com/in/tristan-walmsley-a8ba40335/)  
    
-He / Him・AuDHD  
+He/Him・AuDHD  
    
-2nd Yr Computer Games Dev Student at The University of Lancashire  
-Remote GCSE Maths Tutor at TeamUp  
+3rd Year Computer Games Dev Student at The University of Lancashire  
+GCSE Maths Tutor at TeamUp  
 [Creator of Destiny Playground](https://discord.gg/Ah6Jt5KVPH)  
-Reject Events Builder & D2MC Dev  
 
 ## Projects
-- [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether) - currently supported (V1.1.2)
+- [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether)
 
 ## University of Lancashire Assignments
 
@@ -58,18 +57,3 @@ Reject Events Builder & D2MC Dev
 ## Blackburn College Assignments
 - **Computer Science:**
   - [Coursework](https://github.com/CDarthGaming/Computer-Science_Coursework_Echoes-Of-The-Deep)
-
-<!--
-**CDarthGaming/CDarthGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
