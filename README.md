@@ -39,7 +39,7 @@ Aspiring Secondary Maths Teacher
 - **Advanced Programming with C++:**
   - Assignment 1
 - **Computational Thinking:**
-  - Assignment 1
+  - [Assignment 1](https://github.com/tristanwalmsley/CO2412_Computational-Thinking_Assignment_1)
 - **Computer Graphics:**
   - [Assignment 1](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Assignment_1)
   - [Semester 1 - Pixel Shaders](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Pixel-Shaders)
