@@ -1,6 +1,6 @@
-# Hey, welcome!
+# Tristan Walmsley
    
-[Linkedin](https://www.linkedin.com/in/tristan-walmsley-a8ba40335/)  
+[Linkedin Page](https://www.linkedin.com/in/tristan-walmsley-a8ba40335/)  
    
 He/Him・AuDHD  
    
