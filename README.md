@@ -14,7 +14,15 @@ Aspiring Secondary Maths Teacher
 
 ## University of Lancashire Assignments
 
-### Second Year:
+### Third Year Modules:
+- **Honours Degree Project:**
+- **Games Development 2:**
+- **Maths and Technologies for Games:**
+- **Cross Platform Development:**
+- **Artificial Intelligence:**
+- **Distributed Systems?**
+
+### Second Year Modules:
 - **Games Development:**
   - [Assignment 1](https://github.com/CDarthGaming/CO2301_Games-Development-1_Assignment_1)
   - Assignment 2
@@ -25,6 +33,7 @@ Aspiring Secondary Maths Teacher
 - **Computational Thinking:**
   - Assignment 1
 - **Computer Graphics:**
+  - [Assignment 1](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Assignment_1)
   - Lab 01
   - [Lab 02](https://github.com/CDarthGaming/CO2409_Computer-Graphics_Lab_2)
   - Lab 03
@@ -45,9 +54,8 @@ Aspiring Secondary Maths Teacher
   - Lab 18
   - Lab 19
   - Lab 20
-  - Assignment 1
 
-### First Year Modules
+### First Year Modules:
 - **Programming:**
   - [Assignment 1](https://github.com/CDarthGaming/CO1409_Programming_Assignment_1)
   - [Assignment 2](https://github.com/CDarthGaming/CO1409_Programming_Assignment_2)
