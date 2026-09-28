@@ -35,7 +35,7 @@ Aspiring Secondary Maths Teacher
   - 80% | [Assignment 1](https://github.com/CDarthGaming/CO2301_Games-Development-1_Assignment_1)
   - 87% | Assignment 2
 - **Software Development:**
-  - 68% | Assignment 1
+  - 68% | [Assignment 1](https://github.com/tristanwalmsley/CO2401_Software-Development_Assignment_1)
 - **Advanced Programming with C++:**
   - 94% | Assignment 1
 - **Computational Thinking:**
