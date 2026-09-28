@@ -16,11 +16,19 @@ Aspiring Secondary Maths Teacher
 
 ### Third Year Modules:
 - **Honours Degree Project:**
+  - Artefact
 - **Games Development 2:**
+  - Assignment 1
+  - Assignment 2
 - **Maths and Technologies for Games:**
+  - Assignment 1
 - **Cross Platform Development:**
+  - Assignment 1
 - **Artificial Intelligence:**
-- **Distributed Systems?**
+  - Assignment 1
+  - Assignment 2
+- **Distributed Systems:**
+- - ?
 
 ### Second Year Modules:
 - **Games Development:**
