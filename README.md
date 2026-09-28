@@ -66,3 +66,6 @@ Aspiring Secondary Maths Teacher
 ## Blackburn College Assignments
 - **Computer Science:**
   - [Coursework](https://github.com/CDarthGaming/Computer-Science_Coursework_Echoes-Of-The-Deep)
+
+## Other
+- [Computing Society - GitHub For Beginners Workshop - Demo Repo](https://github.com/tristanwalmsley/Computing-Society_GitHub-For-Beginners_Demo_Repo)
