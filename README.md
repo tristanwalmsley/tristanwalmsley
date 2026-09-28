@@ -12,6 +12,12 @@ Aspiring Secondary Maths Teacher
 ## Projects
 - [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether)
 
+## Games
+- Python | [Echoes of The Deep](https://gamejolt.com/games/echoesofthedeep/885468) | [Source Code](https://github.com/CDarthGaming/Computer-Science_Coursework_Echoes-Of-The-Deep)
+- Unreal Engine | [Sevarog Facility](https://gamejolt.com/games/sevarog-facility/1063894) | [Source Code](https://github.com/tristanwalmsley/CO2301_Games-Development-1_Assignment_2)
+- Godot | [Knight Guy](https://gamejolt.com/games/knightguy/1094258) | [Source Code](https://github.com/tristanwalmsley/knight_guy)
+- 
+
 ## University of Lancashire Assignments
 
 ### Third Year Modules:
@@ -33,11 +39,11 @@ Aspiring Secondary Maths Teacher
 ### Second Year Modules:
 - **Games Development:**
   - 80% | [Assignment 1](https://github.com/CDarthGaming/CO2301_Games-Development-1_Assignment_1)
-  - 87% | Assignment 2
+  - 87% | [Assignment 2](https://github.com/tristanwalmsley/CO2301_Games-Development-1_Assignment_2)
 - **Software Development:**
   - 68% | [Assignment 1](https://github.com/tristanwalmsley/CO2401_Software-Development_Assignment_1)
 - **Advanced Programming with C++:**
-  - 94% | Assignment 1
+  - 94% | [Assignment 1](https://github.com/tristanwalmsley/CO2402_Advanced-Programming-with-C-_Assignment_1)
 - **Computational Thinking:**
   - 87% | [Assignment 1](https://github.com/tristanwalmsley/CO2412_Computational-Thinking_Assignment_1)
 - **Computer Graphics:**
