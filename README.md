@@ -16,6 +16,7 @@ Aspiring Secondary Maths Teacher
 - Python | [Echoes of The Deep](https://gamejolt.com/games/echoesofthedeep/885468) | [Source Code](https://github.com/CDarthGaming/Computer-Science_Coursework_Echoes-Of-The-Deep)
 - Unreal Engine | [Sevarog Facility](https://gamejolt.com/games/sevarog-facility/1063894) | [Source Code](https://github.com/tristanwalmsley/CO2301_Games-Development-1_Assignment_2)
 - Godot | [Knight Guy](https://gamejolt.com/games/knightguy/1094258) | [Source Code](https://github.com/tristanwalmsley/knight_guy)
+- Godot | Stardew Valley Replica | [Source Code](https://github.com/tristanwalmsley/stardew_valley_replica)
 
 ## University of Lancashire Assignments
 
