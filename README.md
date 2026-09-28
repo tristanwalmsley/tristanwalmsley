@@ -32,35 +32,34 @@ Aspiring Secondary Maths Teacher
 
 ### Second Year Modules:
 - **Games Development:**
-  - [Assignment 1](https://github.com/CDarthGaming/CO2301_Games-Development-1_Assignment_1)
-  - Assignment 2
+  - 80% | [Assignment 1](https://github.com/CDarthGaming/CO2301_Games-Development-1_Assignment_1)
+  - 87% | Assignment 2
 - **Software Development:**
-  - Assignment 1
+  - 68% | Assignment 1
 - **Advanced Programming with C++:**
-  - Assignment 1
+  - 94% | Assignment 1
 - **Computational Thinking:**
-  - [Assignment 1](https://github.com/tristanwalmsley/CO2412_Computational-Thinking_Assignment_1)
+  - 87% | [Assignment 1](https://github.com/tristanwalmsley/CO2412_Computational-Thinking_Assignment_1)
 - **Computer Graphics:**
-  - [Assignment 1](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Assignment_1)
-  - [Semester 1 - Pixel Shaders](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Pixel-Shaders)
-  - [Semester 1 - The Cube](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_The-Cube)
-  - [Semester 1 - Pixel Plotter](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Pixel-Plotter)
-  - [Semester 1 - Colour Space](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Colour-Space)
-  - [Semester 1 - Index Buffer](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Index-Buffer)
-  - [Semester 2 - Shadow Mapping](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Shadow-Mapping)
-  - [Semester 2 - Vertex Shaders](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Vertex-Shaders)
-  - [Semester 2 - Pixel Lighting](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Pixel-Lighting)
-  - [Semester 2 - Render Texture](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Render-Texture)
-  - [Semester 2 - Advanced Shaders 1 (Normal Mapping & Pixel Lighting 2)](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Advanced-Shaders-1)
-  - [Lab 02](https://github.com/CDarthGaming/CO2409_Computer-Graphics_Lab_2)
+  - 95% | [Assignment 1](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Assignment_1)
+  - 100% | [Semester 1 - Pixel Shaders](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Pixel-Shaders)
+  - 100% | [Semester 1 - The Cube](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_The-Cube)
+  - 100% | [Semester 1 - Pixel Plotter](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Pixel-Plotter)
+  - 100% | [Semester 1 - Colour Space](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Colour-Space)
+  - 100% | [Semester 1 - Index Buffer](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem1_Index-Buffer)
+  - 100% | [Semester 2 - Shadow Mapping](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Shadow-Mapping)
+  - 100% | [Semester 2 - Vertex Shaders](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Vertex-Shaders)
+  - 100% | [Semester 2 - Pixel Lighting](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Pixel-Lighting)
+  - 100% | [Semester 2 - Render Texture](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Render-Texture)
+  - 100% | [Semester 2 - Advanced Shaders 1 (Normal Mapping & Pixel Lighting 2)](https://github.com/tristanwalmsley/CO2409_Computer-Graphics_Sem2_Advanced-Shaders-1)
 
 ### First Year Modules:
 - **Programming:**
-  - [Assignment 1](https://github.com/CDarthGaming/CO1409_Programming_Assignment_1)
-  - [Assignment 2](https://github.com/CDarthGaming/CO1409_Programming_Assignment_2)
+  - 100% | [Assignment 1](https://github.com/CDarthGaming/CO1409_Programming_Assignment_1)
+  - 100% | [Assignment 2](https://github.com/CDarthGaming/CO1409_Programming_Assignment_2)
 - **Games Concepts:**
-  - [Assignment 1](https://github.com/CDarthGaming/CO1301_Games-Concepts_Assignment_1)
-  - [Assignment 2](https://github.com/CDarthGaming/CO1301_Games-Concepts_Assigment_2)
+  - 86% | [Assignment 1](https://github.com/CDarthGaming/CO1301_Games-Concepts_Assignment_1)
+  - 100% | [Assignment 2](https://github.com/CDarthGaming/CO1301_Games-Concepts_Assigment_2)
 
 ## Blackburn College Assignments
 - **Computer Science:**
