@@ -20,21 +20,26 @@ Aspiring Secondary Maths Teacher
 
 ## University of Lancashire Assignments
 
+### Games Development Masters Content
+
 ### Third Year Modules:
 - **Honours Degree Project:**
   - Artefact
 - **Games Development 2:**
   - Assignment 1
   - Assignment 2
+  - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
 - **Maths and Technologies for Games:**
   - Assignment 1
+  - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
 - **Cross Platform Development:**
+  - Lab 1 - 
   - Assignment 1
 - **Artificial Intelligence:**
   - Assignment 1
   - Assignment 2
-- **Distributed Systems:**
-  - ?
+- **Distributed Systems (elective):**
+  - ...
 
 ### Second Year Modules:
 - **Games Development:**
