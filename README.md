@@ -18,16 +18,18 @@ Aspiring Secondary Maths Teacher
 - Godot | [Knight Guy](https://gamejolt.com/games/knightguy/1094258) | [Source Code](https://github.com/tristanwalmsley/knight_guy)
 - Godot | Stardew Valley Replica | [Source Code](https://github.com/tristanwalmsley/stardew_valley_replica)
 
-## University of Lancashire Assignments
+# University of Lancashire Assignments
 
-### Games Development Masters Content
+## Games Development Masters Content
 
-### Third Year Modules:
-- **Honours Degree Project:**
-  - Artefact
-- **Games Development 2:**
+## Third Year Modules:
+   ### Honours Degree Project:
+   - Artefact
+   ### Games Development 2:
+   #### Assignments
   - Assignment 1
   - Assignment 2
+   #### Labs
   - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
 - **Maths and Technologies for Games:**
   - Assignment 1
