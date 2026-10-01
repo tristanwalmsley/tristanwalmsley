@@ -26,7 +26,7 @@ Aspiring Secondary Maths Teacher
 
 ## Third Year Modules:
 ### Honours Degree Project:
-- Artefact
+- [Artefact Deliverable](https://github.com/tristanwalmsley/CO3008_Honours-Degree-Project)
 ### Games Development 2:
 #### Assignments
 - Assignment 1
