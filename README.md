@@ -9,10 +9,10 @@ GCSE Maths Tutor at TeamUp
 Aspiring Secondary Maths Teacher
 [Creator of Destiny Playground](https://discord.gg/Ah6Jt5KVPH)  
 
-## Projects
+# Projects
 - [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether)
 
-## Games
+# Games
 - Python | [Echoes of The Deep](https://gamejolt.com/games/echoesofthedeep/885468) | [Source Code](https://github.com/CDarthGaming/Computer-Science_Coursework_Echoes-Of-The-Deep)
 - Unreal Engine | [Sevarog Facility](https://gamejolt.com/games/sevarog-facility/1063894) | [Source Code](https://github.com/tristanwalmsley/CO2301_Games-Development-1_Assignment_2)
 - Godot | [Knight Guy](https://gamejolt.com/games/knightguy/1094258) | [Source Code](https://github.com/tristanwalmsley/knight_guy)
@@ -22,26 +22,31 @@ Aspiring Secondary Maths Teacher
 
 ## Games Development Masters Content
 
+...
+
 ## Third Year Modules:
    ### Honours Degree Project:
    - Artefact
    ### Games Development 2:
    #### Assignments
-  - Assignment 1
-  - Assignment 2
+   - Assignment 1
+   - Assignment 2
    #### Labs
-  - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
-- **Maths and Technologies for Games:**
-  - Assignment 1
-  - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
-- **Cross Platform Development:**
-  - Lab 1 - 
-  - Assignment 1
-- **Artificial Intelligence:**
-  - Assignment 1
-  - Assignment 2
-- **Distributed Systems (elective):**
-  - ...
+   - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
+   ### Maths and Technologies for Games:
+   #### Assignments
+   - Assignment 1
+   #### Labs
+   - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
+   ### Cross Platform Development:
+   #### Assignments
+   - Assignment 1
+   ### Artificial Intelligence:
+   #### Assignments
+   - Assignment 1
+   - Assignment 2
+   ### Distributed Systems (elective):
+   - ...
 
 ### Second Year Modules:
 - **Games Development:**
