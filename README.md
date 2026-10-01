@@ -28,11 +28,11 @@ Aspiring Secondary Maths Teacher
    ### Honours Degree Project:
    - Artefact
    ### Games Development 2:
-   #### Assignments
-   - Assignment 1
-   - Assignment 2
-   #### Labs
-   - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
+      #### Assignments
+      - Assignment 1
+      - Assignment 2
+      #### Labs
+      - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
    ### Maths and Technologies for Games:
    #### Assignments
    - Assignment 1
