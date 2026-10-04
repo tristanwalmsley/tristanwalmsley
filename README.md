@@ -5,8 +5,8 @@
 He/Him・AuDHD  
    
 3rd Year Computer Games Dev Student at The University of Lancashire  
-GCSE Maths Tutor at TeamUp
-Aspiring Secondary Maths Teacher
+GCSE Maths Tutor at TeamUp  
+Aspiring Secondary Maths Teacher  
 [Creator of Destiny Playground](https://discord.gg/Ah6Jt5KVPH)  
 
 # Projects
