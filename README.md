@@ -33,6 +33,7 @@ Aspiring Secondary Maths Teacher
 - Assignment 2
 #### Labs
 - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
+- [Lab 2 & 3 - Car Tag](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab2-3_Car-Tag)
 ### Maths and Technologies for Games:
 #### Assignments
 - Assignment 1
