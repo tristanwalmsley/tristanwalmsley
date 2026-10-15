@@ -44,6 +44,8 @@ Aspiring Secondary Maths Teacher
 ### Cross Platform Development:
 #### Assignments
 - Assignment 1
+#### Labs
+- [Lab 2 - Dart Oop](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab2_Dart-Oop)
 ### Artificial Intelligence:
 #### Assignments
 - Assignment 1
