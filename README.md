@@ -28,30 +28,19 @@ Aspiring Secondary Maths Teacher
 ### Honours Degree Project:
 - [Artefact Deliverable](https://github.com/tristanwalmsley/CO3008_Honours-Degree-Project)
 ### Games Development 2:
-#### Assignments
-- Assignment 1
-- Assignment 2
 #### Labs
 - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
 - [Lab 2 & 3 - Car Tag](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab2-3_Car-Tag)
 ### Maths and Technologies for Games:
-#### Assignments
-- Assignment 1
 #### Labs
 - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
 - [Lab 2 - Keyframe Animation](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab2_Keyframe-Animation)
 - [Lab 3 - Animation System 1](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab3_Animation-System-1)
 ### Cross Platform Development:
-#### Assignments
-- Assignment 1
 #### Labs
 - [Lab 2 - Dart Oop](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab2_Dart-Oop)
 ### Artificial Intelligence:
-#### Assignments
-- Assignment 1
-- Assignment 2
-### Distributed Systems (elective):
-- ...
+### Distributed Systems:
 
 ## Second Year Modules:
 ### Games Development:
