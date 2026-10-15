@@ -40,6 +40,7 @@ Aspiring Secondary Maths Teacher
 #### Labs
 - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
 - [Lab 2 - Keyframe Animation](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab2_Keyframe-Animation)
+- [Lab 3 - Animation System 1](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab3_Animation-System-1)
 ### Cross Platform Development:
 #### Assignments
 - Assignment 1
