@@ -39,6 +39,7 @@ Aspiring Secondary Maths Teacher
 ### Cross Platform Development:
 #### Labs
 - [Lab 2 - Dart Oop](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab2_Dart-Oop)
+- [Lab 3 - Dart Oop Extension](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab3_Dart-Oop-Extension)
 ### Artificial Intelligence:
 ### Distributed Systems:
 
