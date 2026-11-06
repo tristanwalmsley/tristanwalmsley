@@ -41,6 +41,7 @@ Aspiring Secondary Maths Teacher
 - [Lab 2 - Dart Oop](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab2_Dart-Oop)
 - [Lab 3 - Dart Oop Extension](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab3_Dart-Oop-Extension)
 - [Lab 4 - Flutter Widgets And Ui](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab4_Flutter-Widgets-And-Ui)
+- [Lab 5 - Flutter Widgets And Ui 2](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab5_Flutter-Widgets-And-Ui-2)
 ### Artificial Intelligence:
 ### Distributed Systems:
 
