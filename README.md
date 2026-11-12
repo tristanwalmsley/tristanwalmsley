@@ -5,6 +5,7 @@
 He/Him・AuDHD  
    
 3rd Year Computer Games Dev Student at The University of Lancashire
+
 | Course Representative, Computing Society Committee Member
 GCSE Maths Tutor at TeamUp  
 Aspiring Secondary Maths Teacher  
