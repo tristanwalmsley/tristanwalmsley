@@ -32,14 +32,14 @@ Aspiring Secondary Maths Teacher
 #### Labs
 - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
 - [Lab 2 & 3 - Car Tag](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab2-3_Car-Tag)
-- [Lab 4 - Optimisation](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab4_Optimisation)
-- Lab 5
-- [Lab 6 - Particle System](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab6_Particle-System)
 ### Maths and Technologies for Games:
 #### Labs
 - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
 - [Lab 2 - Keyframe Animation](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab2_Keyframe-Animation)
 - [Lab 3 - Animation System 1](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab3_Animation-System-1)
+- [Lab 4 - Optimisation](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab4_Optimisation)
+- [Lab 5 - Geometry Shaders (Geometry Shader & Silhouette)](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab5_Geometry-Shaders)
+- [Lab 6 - Particle System](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab6_Particle-System)
 ### Cross Platform Development:
 #### Labs
 - [Lab 2 - Dart Oop](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab2_Dart-Oop)
