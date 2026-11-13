@@ -33,6 +33,8 @@ Aspiring Secondary Maths Teacher
 - [Lab 1 - Entity Intro](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab1_Entity-Intro)
 - [Lab 2 & 3 - Car Tag](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab2-3_Car-Tag)
 - [Lab 4 - Game Data](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab5_Geometry-Shaders)
+- [Lab 5 - Lua Integration](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab5_Lua-Integration)
+- [Lab 6 - Component Entities](https://github.com/tristanwalmsley/CO3301_Games-Development-2_Lab6_Component-Entities)
 ### Maths and Technologies for Games:
 #### Labs
 - [Lab 1 - Quaternion Class](https://github.com/tristanwalmsley/CO3303_Maths-and-Technologies-For-Games_Lab1_Quaternion-Class)
@@ -48,6 +50,10 @@ Aspiring Secondary Maths Teacher
 - [Lab 4 - Flutter Widgets And Ui](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab4_Flutter-Widgets-And-Ui)
 - [Lab 5 - Flutter Widgets And Ui 2](https://github.com/tristanwalmsley/CO2404_Cross-Platform-Development_Lab5_Flutter-Widgets-And-Ui-2)
 ### Artificial Intelligence:
+- [Lab 3 - Linear Regression](https://github.com/tristanwalmsley/CO3519_Artificial-Intelligence_Lab3_Linear-Regression)
+- [Lab 4 - Image Classification](https://github.com/tristanwalmsley/CO3519_Artificial-Intelligence_Lab4_Image-Classification)
+- [Lab 5 - Facial Emotion Recognition](https://github.com/tristanwalmsley/CO3519_Artificial-Intelligence_Lab5_Facial-Emotion-Recognition)
+- [Lab 6 - Facial Emotion Recognition](https://github.com/tristanwalmsley/CO3519_Artificial-Intelligence_Lab6_Facial-Emotion-Recognition)
 ### Distributed Systems:
 
 ## Second Year Modules:
